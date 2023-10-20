@@ -1,6 +1,6 @@
 # :world_map: :hiking_boot: CacheTrek
 
-# :construction: DEV BRANCH :construction:
+# :warning: MAIN BRANCH :warning:
 
 ## :clipboard: Description
 
