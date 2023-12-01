@@ -5,6 +5,8 @@
 ## :clipboard: Description
 
 - Rebuilding a fork of cooperative project. See dev and other branches
+- Only the react application is shown, this project is running with a private backend server and is not displayed for secruity reasons. :european_castle:
+- The reason why I'm showing the frontend of this project is to show my React typescript skills to potential recruiters with developper skills :briefcase:
 
 ## :wrench: TOOLS
 
@@ -19,6 +21,6 @@
 
 ## :computer: Important information
 
-Only the react application is shown, this project is running with a private backend server and is not displayed for secruity reasons. :european_castle:
-I contributed to the traks map and i'm refactoring and converting this vanilla React in to React TypeScript.
-This branch is left empty, only branches created from dev have code.
+- I contributed to the traks map and i am refactoring and converting this vanilla React in to React TypeScript.
+
+# :rocket: Soon deployed ...
